@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/HKUNLP) at the Hong Kong University of Science and Technology (HKUST), supervised by [Professor Junxian He](https://jxhe.github.io/). Previously, I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group at the Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. Previously, I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
 ## Academic Background
 
-* Ph.D. in Computer Science (2024-Present) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/)
-* B.Eng. (2020-2024) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
-* Received the [Zhiyuan Honor Scholarship](https://zhiyuan.sjtu.edu.cn/) at Shanghai Jiao Tong University
+* Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology
+* B.Eng. (2020-2024) at Shanghai Jiao Tong University
+* Received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
 
 ## Research Experience
 
-* **Research Intern**, [MINIMAX](https://www.minimaxi.com/) (February 2025 - Present)
-* **Research Intern**, [Tencent WXG](https://www.tencent.com/) (June 2024 - September 2024)
-  * Advisor: [Zifei Shan](https://shanzifei.github.io/)
-* **Research Intern**, [Shanghai AI Lab](https://www.shlab.org.cn/) (June 2023 - December 2023)
+* **Research Intern**, MINIMAX (February 2025 - Present)
+* **Research Intern**, Tencent WXG (June 2024 - September 2024)
+  * Advisor: Zifei Shan
+* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
 ## Publications
